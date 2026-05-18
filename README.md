@@ -142,35 +142,30 @@ It provides both:
 
 ## 🌐 Deployment : 
 - Backend Deployment
-  
-  => Deploy FastAPI using Render or Railway
-  
-  => Frontend Deployment
-  
-  => Deploy Streamlit using Streamlit Community Cloud
+- Deploy FastAPI using Render or Railway
+- Frontend Deployment
+- Deploy Streamlit using Streamlit Community Cloud
 
 ---
 
-🧠 Learning Outcomes : This project demonstrates:
-
-  => REST API development with FastAPI
-  => Database design with PostgreSQL
-  => Full CRUD operations
-  => Frontend-backend integration
-  => Real-world system architecture
-  => Cloud deployment readiness
+## 🧠 Learning Outcomes : This project demonstrates:
+- REST API development with FastAPI
+- Database design with PostgreSQL
+- Full CRUD operations
+- Frontend-backend integration
+- Real-world system architecture
+- Cloud deployment readiness
 
 ---
 
-👨‍💻 Author : 
+##👨‍💻 Author : 
+- Developed by: Youusef Ayman Hamed
+- Field: AI / Data Science / Backend Development
 
-Developed by: Youusef Ayman Hamed
-Field: AI / Data Science / Backend Development
-
-⭐ Future Improvements
-Authentication system (JWT)
-Role-based access (Admin / Teacher / Student)
-Dashboard analytics
-Email notifications
-Docker deployment
-CI/CD pipeline
+##⭐ Future Improvements
+- Authentication system (JWT)
+- Role-based access (Admin / Teacher / Student)
+- Dashboard analytics
+- Email notifications
+- Docker deployment
+- CI/CD pipeline
